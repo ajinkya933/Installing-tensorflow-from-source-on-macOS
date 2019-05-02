@@ -24,4 +24,4 @@ Step4: Config parameters
 
 type $ which python3 and then enter path of python 3.6
 say no to all other questions
-please note bazek version 0.24.1 darwin is for MacOS
+please note bazel version 0.24.1 darwin is for MacOS
