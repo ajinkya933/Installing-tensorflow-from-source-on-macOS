@@ -18,6 +18,7 @@ Step3: Install Tensorflow:
 git clone https://github.com/tensorflow/tensorflow.git
 cd tensorflow
 ./configure
+bazel build --config=opt //tensorflow/tools/pip_package:build_pip_package
 
 Step4: Config parameters
 
